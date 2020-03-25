@@ -1,14 +1,6 @@
-# 新媒体工具箱
+# 马克多米常用网站工具
 
-> 本文档为半撇私塾 [全栈新媒体骇客训练营](http://learn.bpteach.com/classroom/12/introduction) 课程推荐工具，并于 [Github](https://github.com/BPteach/New-Media-Toolbox/blob/master/Toolkits.md) 开源，欢迎大家请 Star、Pull Request或在 [收集&提交页](https://github.com/BPteach/New-Media-Toolbox-Project/issues) 中提交推荐工具。
-
-素材库和工具库在产品挑选上，遵循如下：
-
-1. 所有产品都是推荐者自身使用过的。
-2. 每个类别工具按照推荐度进行排序。
-3. 每个类别工具的数量原则不超过5个。
-
-
+> 本站为马克多米常用网站工具
 
 ## 一、行业资讯
 
@@ -212,10 +204,4 @@
 - [**Nextoffer**](https://www.nextoffer.com/)：精准的人才竞价平台，主打高质量人才招聘。
 
 
-## 五、课程推荐
 
-1. [新媒体自习室](http://learn.bpteach.com/course/100?utm_source=github.com&utm_medium=referral&utm_campaign=mkg101-bp&utm_term=new-media-toolkits&utm_content=textlink)：每一期都是干货，推荐许多骇客级别的新媒体运营的工具和使用方法。
-2. [全栈新媒体成长计划](http://learn.bpteach.com/course/258?utm_source=github.com&utm_medium=referral&utm_campaign=mkg102-bp&utm_term=new-media-toolkits&utm_content=textlink)：全栈新媒体7天成长计划。系统建立新媒体营销的思维和工作流，从理解用户、流量监测、写作排版面面俱全，课程简练有趣，配套文件也非常详细。
-3. [跟两米青年学拍视频](http://link.zhihu.com/?target=https%3A//study.163.com/course/courseMain.htm%3FcourseId%3D1003789010)：跟两米青年学拍视频。新媒体入门拍摄短视频的基础知识，简练有趣。
-4. [从0到1做起微信公众号全教程](http://link.zhihu.com/?target=http%3A//study.163.com/course/introduction/1003728017.htm)：从0到1做起微信公众号全教程。分享公众号运营过程的一些小技能，精简有道，适合刚入门做微信公众号的新手。
-5. [iH5视频教程](http://link.zhihu.com/?target=http%3A//study.163.com/course/introduction/1280009.htm)：IH5是制作新媒体着陆页的最佳入门工作，可以想象的空间非常大，对于新手来说会稍微有一些门槛，但是要想做出交互更强的着陆页，非iH5不可。课程为官方出品，讲解流畅，技术细节覆盖全面。
